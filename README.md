@@ -8,6 +8,7 @@ Clone the Repository
 
 ```ruby
 git clone https://github.com/shahzaibk23/2048-Game-React
+cd 2048-Game-React
 ```
 
 Then run 
