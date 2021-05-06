@@ -17,3 +17,7 @@ Then run
 npm install
 npm start
 ```
+
+## Demonstration
+
+<img src="images/2048.gif">
