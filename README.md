@@ -1,6 +1,6 @@
 # 2048 Game
 
-This is the typical 2048 game implemented on REACT JS
+This is the typical 2048 game implemented on REACT-JS
 
 ## How to Use
 
